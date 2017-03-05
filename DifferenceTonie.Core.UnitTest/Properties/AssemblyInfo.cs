@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DifferenceTonie.Core.UnitTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Avira Operations GmbH & Co. KG;")]
+[assembly: AssemblyCompany("Johannes Schmitt")]
 [assembly: AssemblyProduct("DifferenceTonie.Core.UnitTest")]
-[assembly: AssemblyCopyright("Copyright © Avira Operations GmbH & Co. KG; 2017")]
+[assembly: AssemblyCopyright("Johannes Schmitt")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
